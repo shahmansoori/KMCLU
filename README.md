@@ -1,3 +1,3 @@
 My first project 
 <br>
-Auther0- Shadab Mansoori 
+Auther- Shadab Mansoori B.tech CSE with AI & ML (KMCLU)
